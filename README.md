@@ -1,14 +1,14 @@
 <h1>
 
-# 📘 Data Structures Lab – Unit 1
-**Name:** Ravi
-**Roll no :** 2501010129
-**Course Code:** ETCCDS202
-**Program:** B.Tech (CSE ) section A
-**School:** School of Engineering & Technology
-**Course:** Data Structures
-**Semester:** B.Tech
-**Year:** 2026
+# 📘 Data Structures Lab – Unit 1<br>
+**Name:** Ravi <br>
+**Roll no :** 2501010129 <br>
+**Course Code:** ETCCDS202 <br>
+**Program:** B.Tech (CSE ) section A <br>
+**School:** School of Engineering & Technology <br>
+**Course:** Data Structures<br>
+**Semester:** B.Tech <br>
+**Year:** 2026 
 </h1>
 
 
